@@ -96,6 +96,12 @@ p {
   margin-bottom: 1.25rem;
   color: var(--clr-grey-5);
 }
+
+.imge{
+  height: 50px;
+  width: 75px;
+}
+
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 4rem;
@@ -118,6 +124,10 @@ p {
   h4 {
     line-height: 1;
   }
+  .imge{
+    height: 100px;
+    width: 120px;
+  }
 }
 /*  global classes */
 
@@ -131,6 +141,10 @@ p {
 @media screen and (min-width: 992px) {
   .section {
     width: 95vw;
+  }
+  .imge{
+    height: 65px;
+    width: 110px;
   }
 }
 
@@ -228,5 +242,9 @@ nav {
   }
   .social-icons a:hover {
     color: var(--clr-primary-7);
+  }
+  .imge{
+    height: 50px;
+    width: 75px;
   }
 }
