@@ -4,7 +4,7 @@ export const links = [
   {
     id: 1,
     url: '/',
-    text: 'Our Tours',
+    text: 'random',
   },
   {
     id: 2,
@@ -31,12 +31,12 @@ export const links = [
 export const social = [
   {
     id: 1,
-    url: 'https://www.facebook.com/mohsinbalte/',
+    url: 'https://www.twitter.com',
     icon: <FaFacebook />,
   },
   {
     id: 2,
-    url: 'https://www.twitter.com/imohsin_ali',
+    url: 'https://www.twitter.com',
     icon: <FaTwitter />,
   },
   {
